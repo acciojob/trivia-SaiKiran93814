@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .question-container {
+            max-width: 600px;
+            margin: 20px;
+            padding: 15px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        blockquote {
+            max-width: 600px;
+            margin: 10px;
+            padding: 15px;
+            border-left: 8px solid green;
+            background-color: #f8fffe;
+            font-weight: bold;
+        }
+    </style>
